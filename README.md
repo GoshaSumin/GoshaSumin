@@ -19,7 +19,7 @@ I'm a passionate specialist dedicated to turning messy data into beautiful, acti
 **Core Languages & Libraries**
 - 🐍 **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - 🤖 **ML/DL:** TensorFlow, PyTorch, XGBoost, CatBoost
-- 📊 **SQL:** PostgreSQL, BigQuery
+- 📊 **SQL:** PostgreSQL, MySQL, SQLite
 
 **Data Engineering & Ops**
 - ⚙️ **Tools:** Git, Docker, Flask/FastAPI (for model deployment)
