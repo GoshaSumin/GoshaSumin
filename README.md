@@ -1,6 +1,6 @@
 # Hi there! I'm Gosha Sumin 👋✨
 
-### 🧑‍💻 Aspiring Data Scientist & ML Engineer | 📊 Data Storyteller | 🤖 AI Enthusiast
+### 🧑‍💻 Data Scientist & ML Engineer | 📊 Data Storyteller | 🤖 AI Enthusiast
 
 I'm a passionate specialist dedicated to turning messy data into beautiful, actionable insights. I love exploring the "why" behind the numbers and building models that actually make a difference! 🌟
 
